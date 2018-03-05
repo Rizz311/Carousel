@@ -1,5 +1,5 @@
 # Slot Machine
-This is a jquery project that I made in class for which utilizes a few skills that I picked up and are polishing up.
+This is a jquery project that I made in class for which shows a carousel of some of my favorite memes at the moment.
 
 **Link to project:** https://github.com/Rizz311/Slot-Machine
 
