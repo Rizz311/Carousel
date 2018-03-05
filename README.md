@@ -3,7 +3,7 @@ This is a jquery project that I made in class for which utilizes a few skills th
 
 **Link to project:** https://github.com/Rizz311/Slot-Machine
 
-![alt tag](https://github.com/Rizz311/Slot-Machine/blob/master/Slot%20Machine/img/slot.png)
+![alt tag](https://github.com/Rizz311/Carousel/blob/master/Carousel/img/home.png)
 
 ## How It's Made:
 
