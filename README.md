@@ -1,7 +1,7 @@
-# Carousel
+# Slot Machine
 This is a jquery project that I made in class for which utilizes a few skills that I picked up and are polishing up.
 
-**Link to project:** https://github.com/Rizz311/Carousel
+**Link to project:** https://github.com/Rizz311/Slot-Machine
 
 ![alt tag](https://github.com/Rizz311/Slot-Machine/blob/master/Slot%20Machine/img/slot.png)
 
