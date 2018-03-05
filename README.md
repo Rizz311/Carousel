@@ -8,7 +8,7 @@ This is a jquery project that I made in class for which utilizes a few skills th
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, JQuery, Arrays, and If Else.
-In the HTML I have a section that is nesting an img tag. I have simple CSS to give it a bit of pazazz. The real magic is within my javascript. I have an array of images that I use to cycle the image source in the HTML and change the image on the click of the prev or next button.
+In the HTML I have a section that is nesting an img tag. I have simple CSS to give it a bit of pazazz. The real magic is within my javascript. I have an array of images that I use to cycle the image source in the HTML and change the image on the click of the back or next button.
 
 ## Optimizations
 I have had the code working but I changed it for a class project and added a random generator that will give you a random picture on the third click I want to change it back to the way it was before that and cycle thru the chain.
